@@ -10,7 +10,7 @@ USER = 'your user'
 PASSWORD = 'your password'
 # URL instagram
 SITE_URL = 'https://www.instagram.com/'
-# Perfil do usuário
+# User profile
 INSTAGRAM_PROFILE = 'user who wants to scratch'
 
 # Browser config
